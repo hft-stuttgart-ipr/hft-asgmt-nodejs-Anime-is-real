@@ -1,4 +1,4 @@
-![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-git-Anime-is-real/workflows/GitHub%20Classroom%20Workflow/badge.svg)
+![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-nodejs-Anime-is-real/workflows/GitHub%20Classroom%20Workflow/badge.svg)
 # hft-asgmt-nodejs
 
 ## TODO
